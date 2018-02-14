@@ -1,3 +1,3 @@
 # data_mgmt_project
 
-cs347e Data Management project
+Group 17 cs347e Data Management project

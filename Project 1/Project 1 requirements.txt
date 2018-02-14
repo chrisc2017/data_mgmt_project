@@ -1,0 +1,6 @@
+Project 1 requirements:
+Reference TopHat chapter 3 walkthrough steps and repeat them for each entity in the provided relational model.
+
+
+Project Due Date: 
+Friday, February 23 at 22:00 hrs.
